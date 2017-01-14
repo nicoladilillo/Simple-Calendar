@@ -1,3 +1,3 @@
 # Calendar
 
-Try to reproduce a calender in html and javscript.
+Try to reproduce a simple calendar in html and javascript.
